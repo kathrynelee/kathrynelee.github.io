@@ -7,3 +7,11 @@ p {
 	font-size: 22px;
 	color: green;
 }
+
+.main {
+	border: 5px solid orange;
+	padding: 10px;
+	height: 620px;
+	width: 1000px;
+	align-self: center;
+}
