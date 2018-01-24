@@ -1,16 +1,21 @@
 h1 {
-	color: orange;
+	color: #16A7A7;
 	float: center;
 }
 
 p {
 	font-size: 22px;
-	color: green;
+	color: #5D6D7E;
 	text-align: left;
+}
+
+body {
+	background-color: #D0E3E3;
 }
 
 .main {
 	border: 5px solid orange;
+	border-color: #16A7A7;
 	border-radius: 10px;
 	padding: 10px;
 	height: 670px;
