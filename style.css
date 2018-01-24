@@ -1,8 +1,9 @@
-p {
-	font-size: 18px;
+h1 {
+	color: orange;
+	float: center;
 }
 
-h1 {
-	color: red;
-	float: center;
+p {
+	font-size: 22px;
+	color: green;
 }
